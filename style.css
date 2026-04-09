@@ -345,7 +345,7 @@ h6 {
 .scroll-indicator {
     position: absolute;
     bottom: 2rem;
-    left: 50%;
+    left: 25%;
     transform: translateX(-50%);
     animation: bounce 2s infinite;
 }
